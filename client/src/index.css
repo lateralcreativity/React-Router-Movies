@@ -59,6 +59,7 @@ a {
   margin: 1rem auto;
 }
 .save-button {
+  cursor: pointer;
   position: absolute;
   top: 25px;
   right: 25px;
